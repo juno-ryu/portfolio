@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1",
+    "title": "3D 에셋 거래용 이커머스 플랫폼",
+    "description": "고급 기능과 원활한 사용자 경험을 갖춘 현대적인 이커머스 솔루션",
+    "longDescription": "현대적인 웹 기술로 구축된 3D 에셋 거래용 이커머스 플랫폼입니다. 이 프로젝트는 제품 상세페이지, 장바구니 관리, 결제 프로세스, 관리자 대시보드를 포함한 완전한 e-커머스 쇼핑 경험을 제공합니다.",
+    "image": "https://picsum.photos/400/300?random=1",
+    "thumbnail": "https://picsum.photos/400/300?random=1",
+    "tags": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "MUI(material UI)",
+      "Zustand",
+      "GraphQL",
+      "REST API"
+    ],
+    "category": "웹 개발",
+    "liveUrl": "https://www.acon3d.com/ko",
+    "technologies": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "MUI(material UI)",
+      "Zustand",
+      "GraphQL",
+      "REST API"
+    ],
+    "features": [
+      "Next.js 캐싱 전략에따른 상세페이지 최적화(ISR, SSR, SSG)",
+      "검색 및 필터가 있는 상품 검색",
+      "장바구니 및 결제",
+      "사용자 인증",
+      "관리자 대시보드",
+      "판매자 대시보드",
+      "결제 통합",
+      "주문 관리"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "디자인 시스템",
+    "description": "재사용 가능한 컴포넌트를 갖춘 웹 애플리케이션용 포괄적인 디자인 시스템",
+    "longDescription": "모든 제품에 걸쳐 일관된 시각적 언어를 제공하는 완전한 디자인 시스템입니다. 컴포넌트 라이브러리, 디자인 토큰, 문서를 포함합니다.",
+    "image": "https://picsum.photos/800/600?random=2",
+    "thumbnail": "https://picsum.photos/400/300?random=2",
+    "tags": ["Design", "UI/UX", "Figma"],
+    "category": "디자인",
+    "technologies": ["Figma", "React", "Storybook"],
+    "features": [
+      "컴포넌트 라이브러리",
+      "디자인 토큰",
+      "접근성 가이드라인",
+      "문서화",
+      "디자인 패턴"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "모바일 앱",
+    "description": "네이티브 성능을 갖춘 크로스 플랫폼 모바일 애플리케이션",
+    "longDescription": "React Native로 구축된 크로스 플랫폼 모바일 애플리케이션입니다. 오프라인 지원, 푸시 알림, 원활한 사용자 경험 등의 기능을 포함합니다.",
+    "image": "https://picsum.photos/800/600?random=3",
+    "thumbnail": "https://picsum.photos/400/300?random=3",
+    "tags": ["React Native", "TypeScript"],
+    "category": "모바일",
+    "technologies": ["React Native", "TypeScript", "Expo"],
+    "features": [
+      "크로스 플랫폼 지원",
+      "오프라인 기능",
+      "푸시 알림",
+      "사용자 인증",
+      "실시간 업데이트"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "대시보드 애플리케이션",
+    "description": "실시간 데이터 시각화를 갖춘 분석 대시보드",
+    "image": "https://picsum.photos/800/600?random=4",
+    "thumbnail": "https://picsum.photos/400/300?random=4",
+    "tags": ["React", "TypeScript", "Charts"],
+    "category": "웹 개발",
+    "longDescription": "실시간 데이터 분석과 시각화를 제공하는 대시보드 애플리케이션입니다. 다양한 차트와 그래프를 통해 데이터를 직관적으로 표현합니다.",
+    "technologies": ["React", "TypeScript", "Chart.js", "Tailwind CSS"],
+    "features": [
+      "실시간 데이터 업데이트",
+      "다양한 차트 유형",
+      "데이터 필터링",
+      "반응형 디자인",
+      "데이터 내보내기"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "브랜드 아이덴티티",
+    "description": "로고 및 가이드라인을 포함한 완전한 브랜드 아이덴티티 디자인",
+    "image": "https://picsum.photos/800/600?random=5",
+    "thumbnail": "https://picsum.photos/400/300?random=5",
+    "tags": ["Branding", "Logo Design"],
+    "category": "디자인",
+    "longDescription": "완전한 브랜드 아이덴티티 디자인 프로젝트입니다. 로고, 컬러 팔레트, 타이포그래피, 브랜드 가이드라인을 포함합니다.",
+    "technologies": ["Figma", "Adobe Illustrator", "Photoshop"],
+    "features": [
+      "로고 디자인",
+      "컬러 시스템",
+      "타이포그래피",
+      "브랜드 가이드라인",
+      "다양한 미디어 적용"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "랜딩 페이지",
+    "description": "최적화된 사용자 흐름을 갖춘 고전환율 랜딩 페이지",
+    "image": "https://picsum.photos/800/600?random=6",
+    "thumbnail": "https://picsum.photos/400/300?random=6",
+    "tags": ["Next.js", "Tailwind CSS"],
+    "category": "웹 개발",
+    "longDescription": "고전환율을 목표로 설계된 랜딩 페이지입니다. 사용자 경험을 최적화하고 전환율을 높이기 위한 다양한 기법을 적용했습니다.",
+    "technologies": ["Next.js", "Tailwind CSS", "TypeScript"],
+    "features": [
+      "반응형 디자인",
+      "A/B 테스트 지원",
+      "애니메이션 효과",
+      "SEO 최적화",
+      "빠른 로딩 속도"
+    ]
+  }
+]
