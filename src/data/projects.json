@@ -108,9 +108,9 @@
   },
   {
     "id": "3",
-    "title": "에그다이닝 모바일 앱",
-    "description": "Webview로 제작된 모바일 애플리케이션",
-    "longDescription": "Webview로 제작된 모바일 애플리케이션입니다. 예약 솔루션을 제공 하기위한 다양한 기능들이 포함되어 있습니다.",
+    "title": "모바일 앱",
+    "description": "Webview로 제작된 모바일 애플리케이션 자사 예약 솔루션을 통해 레스토랑 예약 기능을 제공합니다.",
+    "longDescription": "Webview로 제작된 모바일 애플리케이션 자사 예약 솔루션을 통해 레스토랑 예약 기능을 제공합니다. 예약 솔루션을 제공 하기위한 다양한 기능들이 포함되어 있습니다.",
     "image": "/egg.jpg",
     "thumbnail": "/egg.jpg",
     "tags": [
@@ -139,7 +139,7 @@
   },
   {
     "id": "4",
-    "title": "KT 통화비서 예약솔루션",
+    "title": "예약솔루션 인앱",
     "description": "KT 통화비서 내부에 자사 예약솔루션을 웹뷰 형태로 제공",
     "longDescription": "KT 통화비서 어플리케이션 내부 자사 예약 솔루션을 웹뷰 형태로 제공하여 예약기능 제공",
     "image": "/kt.jpg",
