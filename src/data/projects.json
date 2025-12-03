@@ -2,18 +2,17 @@
   {
     "id": "1",
     "title": "3D 에셋 거래용 이커머스 플랫폼",
-    "description": "고급 기능과 원활한 사용자 경험을 갖춘 현대적인 이커머스 솔루션",
+    "description": "고급 기능과 원활한 사용자 경험을 갖춘 현대적인 이커머스 플랫폼 입니다.",
     "longDescription": "현대적인 웹 기술로 구축된 3D 에셋 거래용 이커머스 플랫폼입니다. 이 프로젝트는 제품 상세페이지, 장바구니 관리, 결제 프로세스, 관리자 대시보드를 포함한 완전한 e-커머스 쇼핑 경험을 제공합니다.",
     "image": "/e-commerce.jpg",
     "thumbnail": "/e-commerce.jpg",
     "tags": [
-      "React",
-      "Next.js",
-      "TypeScript",
-      "MUI(material UI)",
-      "Zustand",
-      "GraphQL",
-      "REST API"
+      "e-commerce",
+      "쇼핑몰",
+      "모바일 최적화",
+      "SEO 최적화",
+      "3D 에셋 거래 솔루션",
+      "플랫폼"
     ],
     "category": "웹 개발",
     "liveUrl": "https://www.acon3d.com/ko",
@@ -22,109 +21,210 @@
       "Next.js",
       "TypeScript",
       "MUI(material UI)",
+      "Emotion",
+      "Styled-components",
+      "Context API",
+      "Recoil",
       "Zustand",
       "GraphQL",
       "REST API"
     ],
     "features": [
       "Next.js 캐싱 전략에따른 상세페이지 최적화(ISR, SSR, SSG)",
+      "SEO 최적화",
+      "반응형 디자인",
       "검색 및 필터가 있는 상품 검색",
       "장바구니 및 결제",
       "사용자 인증",
       "관리자 대시보드",
       "판매자 대시보드",
-      "결제 통합",
-      "주문 관리"
+      "결제/주문"
     ]
   },
   {
     "id": "2",
     "title": "디자인 시스템",
-    "description": "재사용 가능한 컴포넌트를 갖춘 웹 애플리케이션용 포괄적인 디자인 시스템",
-    "longDescription": "모든 제품에 걸쳐 일관된 시각적 언어를 제공하는 완전한 디자인 시스템입니다. 컴포넌트 라이브러리, 디자인 토큰, 문서를 포함합니다.",
+    "description": "재사용 가능한 컴포넌트를 갖춘 웹 애플리케이션용 포괄적인 디자인 시스템의 쇼케이스 웹사이트",
+    "longDescription": "MUI(material UI)를 기반으로 자사 브랜드룩을 적용시킨 웹 사이트입니다. 컴포넌트 라이브러리, 디자인 토큰, 문서를 포함합니다.",
     "image": "/mui-extend.jpg",
     "thumbnail": "/mui-extend.jpg",
-    "tags": ["Design", "UI/UX", "Figma"],
+    "tags": ["Design System", "UI/UX", "Figma"],
     "category": "디자인",
-    "technologies": ["Figma", "React", "Storybook"],
+    "liveUrl": "https://mui-extend.vercel.app/",
+    "technologies": [
+      "React",
+      "Next.js",
+      "MUI(material UI)",
+      "Shadcn/ui",
+      "Tailwind CSS"
+    ],
     "features": [
       "컴포넌트 라이브러리",
+      "반응형 디자인",
       "디자인 토큰",
       "접근성 가이드라인",
-      "문서화",
-      "디자인 패턴"
+      "문서화"
     ]
   },
   {
+    "id": "8",
+    "title": "리그오브레전드 전적검색 웹사이트",
+    "description": "라이엇 게임즈의 리그오브레전드 전적검색 웹사이트 입니다.",
+    "longDescription": "라이엇 게임즈의 리그오브레전드 전적검색 웹사이트 입니다. 리그오브레전드 전적검색 솔루션을 제공 하기위한 다양한 기능들이 포함되어 있습니다.",
+    "image": "/ggr.jpg",
+    "thumbnail": "/ggr.jpg",
+    "tags": ["사이드 프로젝트", "웹사이트", "모바일", "게임 전적검색"],
+    "category": "웹 개발",
+    "liveUrl": "https://good-game-record.vercel.app/",
+    "technologies": [
+      "React",
+      "Next.js",
+      "Shadcn/ui",
+      "Tailwind CSS",
+      "Riot Games API"
+    ],
+    "features": ["반응형 디자인", "게임 전적검색", "데이터 시각화"]
+  },
+  {
+    "id": "7",
+    "title": "기업/협회 홍보 웹사이트",
+    "description": "반응형 웹사이트를 제공하며, 원활한 사용자 경험을 갖춘 웹사이트 입니다.",
+    "longDescription": "기업/협회 홍보 웹사이트 입니다. 기업/협회 홍보 솔루션을 제공 하기위한 다양한 기능들이 포함되어 있습니다.",
+    "image": "/kisa.jpg",
+    "thumbnail": "/kisa.jpg",
+    "tags": ["기업/협회", "웹사이트", "모바일 최적화"],
+    "category": "웹 개발",
+    "liveUrl": "https://www.acon3d.com/ko",
+    "technologies": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "PHP",
+      "Javascript",
+      "CSS3",
+      "Bootstrap"
+    ],
+    "features": ["반응형 디자인", "조직도", "뉴스", "게시판", "인터렉션"]
+  },
+  {
     "id": "3",
-    "title": "모바일 앱",
-    "description": "네이티브 성능을 갖춘 크로스 플랫폼 모바일 애플리케이션",
-    "longDescription": "React Native로 구축된 크로스 플랫폼 모바일 애플리케이션입니다. 오프라인 지원, 푸시 알림, 원활한 사용자 경험 등의 기능을 포함합니다.",
+    "title": "에그다이닝 모바일 앱",
+    "description": "Webview로 제작된 모바일 애플리케이션",
+    "longDescription": "Webview로 제작된 모바일 애플리케이션입니다. 예약 솔루션을 제공 하기위한 다양한 기능들이 포함되어 있습니다.",
     "image": "/egg.jpg",
     "thumbnail": "/egg.jpg",
-    "tags": ["React Native", "TypeScript"],
+    "tags": [
+      "Webview",
+      "예약 솔루션",
+      "애플리케이션",
+      "모바일 최적화",
+      "SEO 최적화"
+    ],
     "category": "모바일",
-    "technologies": ["React Native", "TypeScript", "Expo"],
+    "liveUrl": "https://play.google.com/store/apps/details?id=com.eggapp&hl=ko",
+    "technologies": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Emotion",
+      "React-hook-form",
+      "Zustand",
+      "REST API"
+    ],
     "features": [
-      "크로스 플랫폼 지원",
-      "오프라인 기능",
-      "푸시 알림",
-      "사용자 인증",
-      "실시간 업데이트"
+      "예약 기능",
+      "매장 탐색 기능",
+      "그 외 예약 플로우에 따른 필요한 페이지 제공"
     ]
   },
   {
     "id": "4",
-    "title": "대시보드 애플리케이션",
-    "description": "실시간 데이터 시각화를 갖춘 분석 대시보드",
-    "image": "https://picsum.photos/800/600?random=4",
-    "thumbnail": "https://picsum.photos/400/300?random=4",
-    "tags": ["React", "TypeScript", "Charts"],
-    "category": "웹 개발",
-    "longDescription": "실시간 데이터 분석과 시각화를 제공하는 대시보드 애플리케이션입니다. 다양한 차트와 그래프를 통해 데이터를 직관적으로 표현합니다.",
-    "technologies": ["React", "TypeScript", "Chart.js", "Tailwind CSS"],
+    "title": "KT 통화비서 예약솔루션",
+    "description": "KT 통화비서 내부에 자사 예약솔루션을 웹뷰 형태로 제공",
+    "longDescription": "KT 통화비서 어플리케이션 내부 자사 예약 솔루션을 웹뷰 형태로 제공하여 예약기능 제공",
+    "image": "/kt.jpg",
+    "thumbnail": "/kt.jpg",
+    "tags": [
+      "Webview",
+      "예약 솔루션",
+      "애플리케이션",
+      "모바일 최적화",
+      "SEO 최적화"
+    ],
+    "category": "모바일",
+    "liveUrl": "https://play.google.com/store/apps/details?id=com.ktaica&hl=ko",
+    "technologies": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Emotion",
+      "React-hook-form",
+      "Zustand",
+      "REST API"
+    ],
     "features": [
-      "실시간 데이터 업데이트",
-      "다양한 차트 유형",
-      "데이터 필터링",
-      "반응형 디자인",
-      "데이터 내보내기"
-    ]
-  },
-  {
-    "id": "5",
-    "title": "브랜드 아이덴티티",
-    "description": "로고 및 가이드라인을 포함한 완전한 브랜드 아이덴티티 디자인",
-    "image": "https://picsum.photos/800/600?random=5",
-    "thumbnail": "https://picsum.photos/400/300?random=5",
-    "tags": ["Branding", "Logo Design"],
-    "category": "디자인",
-    "longDescription": "완전한 브랜드 아이덴티티 디자인 프로젝트입니다. 로고, 컬러 팔레트, 타이포그래피, 브랜드 가이드라인을 포함합니다.",
-    "technologies": ["Figma", "Adobe Illustrator", "Photoshop"],
-    "features": [
-      "로고 디자인",
-      "컬러 시스템",
-      "타이포그래피",
-      "브랜드 가이드라인",
-      "다양한 미디어 적용"
+      "예약 기능",
+      "매장 탐색 기능",
+      "그 외 예약 플로우에 따른 필요한 페이지 제공"
     ]
   },
   {
     "id": "6",
-    "title": "랜딩 페이지",
-    "description": "최적화된 사용자 흐름을 갖춘 고전환율 랜딩 페이지",
-    "image": "https://picsum.photos/800/600?random=6",
-    "thumbnail": "https://picsum.photos/400/300?random=6",
-    "tags": ["Next.js", "Tailwind CSS"],
-    "category": "웹 개발",
-    "longDescription": "고전환율을 목표로 설계된 랜딩 페이지입니다. 사용자 경험을 최적화하고 전환율을 높이기 위한 다양한 기법을 적용했습니다.",
-    "technologies": ["Next.js", "Tailwind CSS", "TypeScript"],
+    "title": "디자인 시스템",
+    "description": "재사용 가능한 컴포넌트를 갖춘 웹 애플리케이션용 포괄적인 디자인 시스템의 쇼케이스 웹사이트",
+    "longDescription": "자사 UI를 기반으로 브랜드룩을 적용시킨 웹 사이트입니다. 컴포넌트 라이브러리, 디자인 토큰, 문서를 포함합니다.",
+    "image": "/mania-framework.jpg",
+    "thumbnail": "/mania-framework.jpg",
+    "tags": ["Design System", "UI/UX", "Photoshop", "Javscript"],
+    "category": "디자인",
+    "liveUrl": "https://imisolver.github.io/maniaframe/#/",
+    "technologies": ["React(CRA)", "SCSS", "Javascript"],
     "features": [
+      "컴포넌트 라이브러리",
       "반응형 디자인",
-      "A/B 테스트 지원",
-      "애니메이션 효과",
-      "SEO 최적화",
-      "빠른 로딩 속도"
+      "디자인 토큰",
+      "문서화"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "게임 아이템 거래 플랫폼",
+    "description": "게임 아이템 거래플랫폼 웹사이트 입니다.",
+    "image": "/mania.jpg",
+    "thumbnail": "/mania.jpg",
+    "tags": ["웹사이트", "게임 아이템 거래 솔루션", "플랫폼"],
+    "category": "웹 개발",
+    "liveUrl": "https://www.itemmania.com/",
+    "longDescription": "게임 아이템 거래플랫폼 웹사이트 입니다. 게임 아이템 거래 솔루션을 제공 하기위한 다양한 기능들이 포함되어 있습니다.",
+    "technologies": ["Javascript", "jQuery", "PHP"],
+    "features": [
+      "게임 아이템 거래 솔루션",
+      "이벤트/프로모션",
+      "Canvas 기반 시세 차트 제공",
+      "게임이름 검색 자동완성 모듈",
+      "Carousel 모듈",
+      "복권 긁기 모듈"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "컴퓨터 도소매업 이커머스 플랫폼",
+    "description": "컴퓨터 도소매업 이커머스 플랫폼 웹사이트 입니다.",
+    "longDescription": "컴퓨터 도소매업 이커머스 플랫폼 웹사이트 입니다. 컴퓨터 도소매업 이커머스 플랫폼 솔루션을 제공 하기위한 다양한 기능들이 포함되어 있습니다.",
+    "image": "/jooyon.jpg",
+    "thumbnail": "/jooyon.jpg",
+    "tags": ["e-commerce", "쇼핑몰", "모바일 최적화", "컴퓨터"],
+    "category": "웹 개발",
+    "liveUrl": "https://www.jooyon.co.kr/main.php",
+    "technologies": ["Javascript", "jQuery", "PHP", "CSS3"],
+    "features": [
+      "컴퓨터 도소매업 이커머스 플랫폼 솔루션",
+      "이벤트/프로모션",
+      "회사 소개",
+      "공시 정보",
+      "게시판",
+      "인터렉션",
+      "뉴스"
     ]
   }
 ]
